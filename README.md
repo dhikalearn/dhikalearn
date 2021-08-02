@@ -1,9 +1,16 @@
-# Halo semua👋 
+### Hai friends! 👋 I'm Andhika Bagaskara.
 
-Perkenalkan namaku **Muhamad Andhika Bagaskara**.\
+Iam is a Web Developer who interesting to the challenges. I love javascript and use it as my favorit language. Iam interested to NodeJS and I want learn every important things about NodeJS.
 
-Aku seorang **Web Developer** di [Griyakami](http://griyakami.co.id/).\
+- 🔭 I’m currently working on <a href="http://griyakami.co.id">@griyakamihomecare</a>
+- 🌱 I’m currently learning about NodeJS for back-end apps
+- 💬 Feel free to ask me about web development or JavaScript
+- 📫 Reach me on Instagram: andhika.bgskr
+- ⚡ Fun fact: Iam still confused with my self.
 
-Aku bertanggung jawab mengelola data Insight dari sosial media dan menjaga keamanan website. Berikut tautan website [Insight](https://scm.griyakami.co.id:8443).\
-
-Untuk Sekarang aku lagi belajar untuk ningkatin skill nih.
+<p align="left">
+<a href="https://github.com/dhikalearn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
